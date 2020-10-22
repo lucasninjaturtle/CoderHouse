@@ -1,3 +1,5 @@
+//1
+
 let num = prompt ("Ingrese un numero: ")
 
 if (num > 1000 ){
@@ -6,6 +8,8 @@ if (num > 1000 ){
 else { 
     alert ('el numero no es mayor a mil')
 }
+
+//2
 
 let texto = prompt ("Ingrese un texto: ")
 
@@ -16,6 +20,7 @@ else {
     console.log ("el texto es dinstito de hola")
 }
 
+//3
 let num2 = prompt ("Ingrese un numero: ")
 
 if (num2 >= 10 && num2 <=50 ){
